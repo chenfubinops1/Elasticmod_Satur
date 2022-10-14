@@ -1,5 +1,5 @@
 # Elasticmod_Satur
-stimation for elastic moduli of fluid-saturated rocks
+Estimation for elastic moduli of fluid-saturated rocks
 
 List of Matlab code files 
 
